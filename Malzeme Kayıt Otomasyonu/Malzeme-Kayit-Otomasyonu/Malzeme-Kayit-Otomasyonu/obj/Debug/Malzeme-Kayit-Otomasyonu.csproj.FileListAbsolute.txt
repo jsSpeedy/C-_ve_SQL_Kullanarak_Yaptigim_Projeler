@@ -1,0 +1,17 @@
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\bin\Debug\Malzeme-Kayit-Otomasyonu.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\bin\Debug\Malzeme-Kayit-Otomasyonu.exe
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\bin\Debug\Malzeme-Kayit-Otomasyonu.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme-Kayit-Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme-Kayit-Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme_Kayit_Otomasyonu.MusteriGuncelleme.resources
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme_Kayit_Otomasyonu.MusteriKayit.resources
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme_Kayit_Otomasyonu.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme_Kayit_Otomasyonu.SatisGoruntule.resources
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme_Kayit_Otomasyonu.SatisYap.resources
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme_Kayit_Otomasyonu.UrunGuncelleme.resources
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme_Kayit_Otomasyonu.UrunKayit.resources
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme-Kayit-Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme-Kayit-Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme-Kayit-Otomasyonu.exe
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme-Kayit-Otomasyonu.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\Malzeme Kayıt Otomasyonu\Malzeme-Kayit-Otomasyonu\Malzeme-Kayit-Otomasyonu\obj\Debug\Malzeme_Kayit_Otomasyonu.anaSayfa.resources

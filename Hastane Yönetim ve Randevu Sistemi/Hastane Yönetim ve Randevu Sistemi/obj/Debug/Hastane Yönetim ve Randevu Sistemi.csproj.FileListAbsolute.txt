@@ -1,0 +1,69 @@
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\bin\Debug\Hastane Yönetim ve Randevu Sistemi.exe
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\bin\Debug\Hastane Yönetim ve Randevu Sistemi.pdb
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.exe
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.pdb
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmBilgiDüzenle.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorBilgiDüzenle.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorDetay.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorGiris.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDuyurular.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmGirisler.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaDetay.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaGiris.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaKayit.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmSekreterDeetay.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmSekreterGiris.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmBrans.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorPaneli.resources
+C:\Users\MONSTER\source\repos\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmRandevuListesi.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\bin\Debug\Hastane Yönetim ve Randevu Sistemi.exe.config
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\bin\Debug\Hastane Yönetim ve Randevu Sistemi.exe
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\bin\Debug\Hastane Yönetim ve Randevu Sistemi.pdb
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.AssemblyReference.cache
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.SuggestedBindingRedirects.cache
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmBilgiDüzenle.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmBrans.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorBilgiDüzenle.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorDetay.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorGiris.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorPaneli.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDuyurular.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmGirisler.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaDetay.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaGiris.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaKayit.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmRandevuListesi.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmSekreterDeetay.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmSekreterGiris.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.Properties.Resources.resources
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.GenerateResource.cache
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.CoreCompileInputs.cache
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.exe
+G:\BEÜ\2.SINIF\2.DÖNEM\Görsel Programlama II\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\bin\Debug\Hastane Yönetim ve Randevu Sistemi.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\bin\Debug\Hastane Yönetim ve Randevu Sistemi.exe
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\bin\Debug\Hastane Yönetim ve Randevu Sistemi.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmBilgiDüzenle.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmBrans.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorBilgiDüzenle.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorDetay.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorGiris.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDoktorPaneli.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmDuyurular.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmGirisler.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaDetay.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaGiris.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmHastaKayit.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmRandevuListesi.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmSekreterDeetay.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.FrmSekreterGiris.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane_Yönetim_ve_Randevu_Sistemi.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.exe
+C:\Users\ASUS\OneDrive\Masaüstü\SOFTWARE\C#\Hastane Yönetim ve Randevu Sistemi\Hastane Yönetim ve Randevu Sistemi\obj\Debug\Hastane Yönetim ve Randevu Sistemi.pdb
